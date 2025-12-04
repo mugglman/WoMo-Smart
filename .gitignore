@@ -1,0 +1,42 @@
+# ---- Allgemein ----
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# ---- VSCode ----
+.vscode/
+*.code-workspace
+
+# ---- PlatformIO ----
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio/libdeps/
+.pio/build/
+test/.pio/
+
+# ---- Arduino ----
+*.ino.elf
+*.ino.bin
+*.ino.hex
+
+# ---- Build ----
+build/
+cmake-build-*/
+*.elf
+*.bin
+*.map
+
+# ---- Python / Tools ----
+__pycache__/
+*.pyc
+.env/
+
+# ---- Backup-Dateien ----
+*.bak
+*.swp
+
+# ---- OneDrive Konflikte ----
+*.lnk
+*.sync-conflict*
