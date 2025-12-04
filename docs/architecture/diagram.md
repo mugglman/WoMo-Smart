@@ -17,9 +17,9 @@
            +-------------------------v------------------------+
            |                 ESP32-P4 Panel                   |
            |  - 7\" Display (LVGL)                            |
-           |  - Kamera (MIPI-CSI)                            |
-           |  - UI                                           |
-           |  - Sensor-Hub                                   |
+           |  - Kamera (MIPI-CSI)                             |
+           |  - UI                                            |
+           |  - Sensor-Hub                                    |
            +-------------------------+------------------------+
                                      |
                                      | GPIO / RS485 / I2C
@@ -27,8 +27,8 @@
              +-----------------------v--------------------------+
              |              Sensoren & Aktoren                  |
              |  - Gaswarner                                     |
-             |  - Türen / PIR                                   |
-             |  - Tank-Füllstände                               |
+             |  - Tï¿½ren / PIR                                   |
+             |  - Tank-Fï¿½llstï¿½nde                               |
              |  - Klima (BME280/BME680)                         |
              +-----------------------+---------------------------+
                                      |
